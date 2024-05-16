@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/cloud-gov/pages-builder/badge.svg)](https://snyk.io/test/github/cloud-gov/pages-builder)
+# DEPRECATED - This repository is no longer in use and will not be maintained. 
 
 # pages-builder
 
